@@ -7,7 +7,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 export default function HomeScreen() {
 
 
-  return <Redirect href="/(stack)/home" />
+  // return <Redirect href="/(stack)/home" />
+  // return <Redirect href="/tabs" />
+  // return <Redirect href="/drawer" />
+  return <Redirect href="/home" />
 
 
   // return (
